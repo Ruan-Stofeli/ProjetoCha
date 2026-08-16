@@ -1,501 +1,504 @@
 {
   "presentes": {
-    "cozinha": {
-      "1": {
-        "nome": "Boleira Pétalas com pé",
+    "banheiro": [
+      null,
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2C3hjwm",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_908298-MLA105471001413_012026-F.webp",
-        "preco": "R$69,90"
-      },
-      "2": {
-        "nome": "Rolo Para Massa",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/32jjsEi",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_809890-MLA92927420428_092025-F.webp",
-        "preco": "R$20,90"
-      },
-      "3": {
-        "nome": "Panela De Pressão Panelux 4,5l Cor Grafite",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2Q6Qyz8",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_892876-MLA114378192026_082026-F.webp",
-        "preco": "R$129,20"
-      },
-      "4": {
-        "nome": "Frigideira Tramontina",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2NQKeAd",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_944032-MLB93899006197_102025-F-frigideira-tramontina-antiaderente-tampa-e-espatula-16-e-20.webp",
-        "preco": "R$78,43"
-      },
-      "5": {
-        "nome": "Descanso de panela",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2jWVxpq",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_669351-MLB112688199257_062026-F-4-descanso-de-panela-silicone-165cm-antiaderente-cozinha.webp",
-        "preco": "R$30,99"
-      },
-      "6": {
-        "nome": "Escorredor de macarrão",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1BM1MU8",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_860245-MLB95447553415_102025-F-escorredor-de-macarrao-28cm-aco-inox.webp",
-        "preco": "R$29,99"
-      },
-      "7": {
-        "nome": "Jogo 3 Peneiras",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2XJVvRM",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_848419-MLA111032687400_052026-F.webp",
-        "preco": "R$19,18"
-      },
-      "8": {
-        "nome": "Escorredor de louça",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2T5M8JM",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_731746-MLA99508834198_112025-F.webp",
-        "preco": "R$179,82"
-      },
-      "9": {
-        "nome": "Kit 3 Formas Com Fundo Removível",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1uAU6DY",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_638819-MLA107398722600_032026-F.webp",
-        "preco": "R$66,99"
-      },
-      "10": {
-        "nome": "Jogo Assadeiras 3 Peças",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2LdBtas",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_950307-MLB77016210397_062024-F-jogo-assadeiras-3-pecas-13-forma-bolo-borda-alta.webp",
-        "preco": "R$44,52"
-      },
-      "11": {
-        "nome": "Assadeira de pizza",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2Z4jskB",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_778303-MLA111946766261_052026-F.webp",
-        "preco": "R$59,90"
-      },
-      "12": {
-        "nome": "Jogo Talheres Faqueiro Família Luxo Aço Inox 36 Peças Tramontina",
-        "escolhido": 0,
-        "max": 2,
-        "link": "https://meli.la/32FWqGo",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_998898-MLB114005287792_072026-F-faqueiro-inox-familia-luxo-tramontina-malibu-liso-36-pecas.webp",
-        "preco": "R$138,22"
-      },
-      "13": {
-        "nome": "Colher de pau",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2GAuZzY",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_773223-MLB92036884842_092025-F-kit-2-colheres-de-pau-38cm-concha-madeira-natural.webp",
-        "preco": "R$22,77"
-      },
-      "14": {
-        "nome": "Espátula de manteiga",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/18RuWeF",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_987011-MLB106835612458_022026-F-12-unid-espatula-de-passar-manteiga-nutella-pate-faca-inox.webp",
-        "preco": "R$24,25"
-      },
-      "15": {
-        "nome": "Amolador E Afiador De Facas Cor Preto",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2SBydYB",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_655820-MLB111765165025_052026-F-afiador-amolador-de-facas-3-em-1-amola-cozinha-profissional.webp",
-        "preco": "R$18,52"
-      },
-      "16": {
-        "nome": "Descascador de legumes",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2Ms4RgQ",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_755493-MLB113063958344_072026-F-descascador-de-legumes-frutas-batata-lamina-em-inox-cortador.webp",
-        "preco": "R$19,01"
-      },
-      "17": {
-        "nome": "Utensílios de cozinha",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2GkywuQ",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_679060-MLA95683711372_102025-F.webp",
-        "preco": "R$56,99"
-      },
-      "18": {
-        "nome": "Socador de feijão",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/14scdoz",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_689011-MLA99362420436_112025-F.webp",
-        "preco": "R$21,99"
-      },
-      "19": {
-        "nome": "Abridor de garrafa",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1TJiCDc",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_683888-MLB100965026879_122025-F-abridor-de-garrafa-saca-rolhas-vinho-inox-profissional.webp",
-        "preco": "R$19,90"
-      },
-      "20": {
-        "nome": "Abridor de lata",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/24EBTqp",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_911808-MLA100089628697_122025-F.webp",
-        "preco": "R$25,69"
-      },
-      "21": {
-        "nome": "Tesoura",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1ExKTGy",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_632105-MLA111183508333_052026-F.webp",
-        "preco": "R$19,36"
-      },
-      "22": {
-        "nome": "Amassador de batata",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2nYB7W6",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_920128-MLB111126553548_052026-F-kit-amassador-batata--espremedor-alho-inox-forte.webp",
-        "preco": "R$28,49"
-      },
-      "23": {
-        "nome": "Organizador de talheres cor preta",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2j6tx36",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_619318-MLB84193243484_052025-F-porta-talheres-organizador-de-gaveta-de-cozinha-resistente.webp",
-        "preco": "R$19,00"
-      },
-      "24": {
-        "nome": "Kit medidor",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1gW1gGJ",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_866196-MLA112859890956_072026-F.webp",
-        "preco": "R$24,90"
-      },
-      "25": {
-        "nome": "Kit de bowl",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2qsL516",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_704754-MLA106182305319_012026-F.webp",
-        "preco": "R$64,90"
-      },
-      "26": {
-        "nome": "Conjunto 16 Potes",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1J7eWNq",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_679472-MLU73127149834_122023-F.webp",
-        "preco": "R$69,99"
-      },
-      "27": {
-        "nome": "Jogo de bacias cor preta",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2jhAUJM",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_793932-MLB95401495440_102025-F-jogo-6-potes-plastico-vasilha-bacia-bowl-p-cozinha-grande.webp",
-        "preco": "R$32,12"
-      },
-      "28": {
-        "nome": "Tampa de micro-ondas",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1oavzca",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_656117-MLB113251844973_062026-F-tampa-protetora-para-microondas-com-alca-e-valvula.webp",
-        "preco": "R$24,90"
-      },
-      "29": {
-        "nome": "Ralador",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2LSgucX",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_610644-MLA111793994460_062026-F.webp",
-        "preco": "R$36,00"
-      },
-      "30": {
-        "nome": "Triturador de alimento",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1ASre1W",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_919107-MLA107537084322_032026-F.webp",
-        "preco": "R$22,21"
-      },
-      "31": {
-        "nome": "Tábua de corte",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2mK7tt5",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_637341-MLB85722803429_062025-F-tabua-de-corte-saudavel-pp-aco-inox-para-cortar-dupla-face.webp",
-        "preco": "R$38,00"
-      },
-      "32": {
-        "nome": "Tábua de corte",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1iihkLq",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_900073-MLA107190732393_022026-F.webp",
-        "preco": "R$19,00"
-      },
-      "33": {
-        "nome": "Travessa",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1fPTHf2",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_870108-MLB80076408258_102024-F-kit-2-travessa-retangular-refrataria-1300ml-porcelana-branco.webp",
-        "preco": "R$66,99"
-      },
-      "34": {
-        "nome": "Kit funil de plástico",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2q9pzD9",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_910729-MLA99596218620_122025-F.webp",
-        "preco": "R$19,00"
-      },
-      "35": {
-        "nome": "Garrafa térmica",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1mnsLGr",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_740918-MLA109137799062_042026-F.webp",
-        "preco": "R$59,41"
-      },
-      "36": {
-        "nome": "Coador de café inox",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2pcDkeE",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_814390-MLA113986086582_072026-F.webp",
-        "preco": "R$24,77"
-      },
-      "37": {
-        "nome": "Bule de café",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2zCbsmd",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_648551-MLA105565830005_012026-F-bule-cafe-cha-23-litros-aluminio-grosso-cabo-baquelite.webp",
-        "preco": "R$71,90"
-      },
-      "38": {
-        "nome": "Jogo de jantar Oxford",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2L2mtNe",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_771183-MLA95712551934_102025-F.webp",
-        "preco": "R$205,59"
-      },
-      "39": {
-        "nome": "Pano De Prato Atoalhado Felpudo",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/28tBeno",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_839442-MLB70483699203_072023-F-pano-de-prato-atoalhado-felpudo-macio-algodao-gourmet-5-peca.webp",
-        "preco": "R$52,25"
-      },
-      "40": {
-        "nome": "Liquidificador",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2jQNMzc",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_698442-MLA99998734381_112025-F.webp",
-        "preco": "R$105,73"
-      },
-      "41": {
-        "nome": "Batedeira Planetária",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2zY3kxT",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_987023-MLA88719812220_072025-F.webp",
-        "preco": "R$275,53"
-      },
-      "42": {
-        "nome": "Chaleira elétrica",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1vjuqx1",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_956934-MLA99958223663_112025-F.webp",
-        "preco": "R$135,00"
-      },
-      "43": {
-        "nome": "Espremedor de frutas",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2VuMouu",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_728964-MLA99450346094_112025-F.webp",
-        "preco": "R$158,38"
-      },
-      "44": {
-        "nome": "Panela de arroz elétrica",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2bzRFVN",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_951287-MLA99895022791_112025-F.webp",
-        "preco": "R$209,00"
-      },
-      "45": {
-        "nome": "Air fryer wap",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1ZUm93s",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_898071-MLA99545431524_122025-F.webp",
-        "preco": "R$469,90"
-      },
-      "46": {
-        "nome": "Processador de alimentos",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/22qgtSH",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_905677-MLA99911165953_112025-F.webp",
-        "preco": "R$145,20"
-      },
-      "47": {
-        "nome": "Grelha dupla",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2YeUpaR",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_830055-MLA99602919758_122025-F.webp",
-        "preco": "R$25,98"
-      },
-      "48": {
-        "nome": "Tábua Corte Carne Churrasco",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2jL28ej",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_667572-MLB88165056918_072025-F-tabua-corte-carne-churrasco-servir-moderna-grande-com-cabo.webp",
-        "preco": "R$69,98"
-      },
-      "49": {
-        "nome": "Grelha de churrasqueira",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1SKHXx3",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_824174-MLB92172590486_092025-F-grelha-churrasco-parrilla-uruguaia-100-inox-reforcada.webp",
-        "preco": "R$99,99"
-      }
-    },
-
-    "quarto": {
-      "1": {
-        "nome": "Edredom Casal Cor Azul Marinho",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2a9oK8L",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_644969-MLB86682830902_062025-F-edredom-casal-dupla-face-jogo-de-lencol-varias-cores.webp",
-        "preco": "R$146,00"
-      },
-      "2": {
-        "nome": "Jogo Lençol Casal 3 Peças Cor Cinza",
-        "escolhido": 0,
-        "max": 2,
-        "link": "https://meli.la/2oEz8b8",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_746601-MLB52559432851_112022-F-jogo-lencol-casal-3-pecas-200-fios-fronhas-com-ponto-palito.webp",
-        "preco": "R$57,13"
-      },
-      "3": {
-        "nome": "Kit Cobre Leito Casal 3 Peças Cor Cinza",
-        "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2x2YvYu",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_608268-MLB91341669894_092025-F-kit-cobre-leito-casal-3-pecas-colcha-400-fios-dupla-face.webp",
-        "preco": "R$140,03"
-      }
-    },
-    "banheiro": {
-      "1": {
-        "nome": "Jogo de toalha karsten",
-        "escolhido": 0,
-        "max": 2,
-        "link": "https://meli.la/1jtAXCK",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_750382-MLA107372597079_022026-F.webp",
+        "link": "https://meli.la/1jtAXCK",
+        "max": 2,
+        "nome": "Jogo de toalha karsten/buddmeyer - largura 86cm",
         "preco": "R$206,01"
       },
-      "2": {
-        "nome": "Kit 2 tapetes de banheiro",
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1q43HCL",
         "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_723164-MLB101848516780_122025-F-kit2-tapetes-para-banheiro-tapete-magico-ultra--para-absorca.webp",
+        "link": "https://meli.la/1q43HCL",
+        "max": 1,
+        "nome": "Kit 2 tapetes de banheiro",
         "preco": "R$25,90"
       },
-      "3": {
-        "nome": "Jogo de tapete",
-        "escolhido": 0,
-        "max": 2,
-        "link": "https://meli.la/1bGpWDj",
+      {
+        "escolhido": 2,
         "imagem": "https://http2.mlstatic.com/D_Q_NP_835827-MLB92789440681_092025-F-jogo-de-tapete-banheiro-kit-3-pcs-soft-antiderrapante-luxo.webp",
+        "link": "https://meli.la/1bGpWDj",
+        "max": 2,
+        "nome": "Jogo de tapete",
         "preco": "R$41,90"
       }
-    },
-    "Área de serviço": {
-      "1": {
-        "nome": "Balde",
+    ],
+    "cozinha": [
+      null,
+      {
         "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_908298-MLA105471001413_012026-F.webp",
+        "link": "https://meli.la/2C3hjwm",
+        "max": 1,
+        "nome": "Boleira Pétalas com pé",
+        "preco": "R$69,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_809890-MLA92927420428_092025-F.webp",
+        "link": "https://meli.la/32jjsEi",
+        "max": 1,
+        "nome": "Rolo Para Massa",
+        "preco": "R$20,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_892876-MLA114378192026_082026-F.webp",
+        "link": "https://meli.la/2Q6Qyz8",
+        "max": 1,
+        "nome": "Panela De Pressão Panelux 4,5l Cor Grafite",
+        "preco": "R$129,20"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_944032-MLB93899006197_102025-F-frigideira-tramontina-antiaderente-tampa-e-espatula-16-e-20.webp",
+        "link": "https://meli.la/2NQKeAd",
+        "max": 1,
+        "nome": "Frigideira Tramontina",
+        "preco": "R$78,43"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_669351-MLB112688199257_062026-F-4-descanso-de-panela-silicone-165cm-antiaderente-cozinha.webp",
+        "link": "https://meli.la/2jWVxpq",
+        "max": 1,
+        "nome": "Descanso de panela",
+        "preco": "R$30,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_860245-MLB95447553415_102025-F-escorredor-de-macarrao-28cm-aco-inox.webp",
+        "link": "https://meli.la/1BM1MU8",
+        "max": 1,
+        "nome": "Escorredor de macarrão",
+        "preco": "R$29,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_848419-MLA111032687400_052026-F.webp",
+        "link": "https://meli.la/2XJVvRM",
+        "max": 1,
+        "nome": "Jogo 3 Peneiras",
+        "preco": "R$19,18"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_731746-MLA99508834198_112025-F.webp",
+        "link": "https://meli.la/2T5M8JM",
+        "max": 1,
+        "nome": "Escorredor de louça",
+        "preco": "R$179,82"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_638819-MLA107398722600_032026-F.webp",
+        "link": "https://meli.la/1uAU6DY",
+        "max": 1,
+        "nome": "Kit 3 Formas Com Fundo Removível",
+        "preco": "R$66,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_950307-MLB77016210397_062024-F-jogo-assadeiras-3-pecas-13-forma-bolo-borda-alta.webp",
+        "link": "https://meli.la/2LdBtas",
+        "max": 1,
+        "nome": "Jogo Assadeiras 3 Peças",
+        "preco": "R$44,52"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_778303-MLA111946766261_052026-F.webp",
+        "link": "https://meli.la/2Z4jskB",
+        "max": 1,
+        "nome": "Assadeira de pizza",
+        "preco": "R$59,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_998898-MLB114005287792_072026-F-faqueiro-inox-familia-luxo-tramontina-malibu-liso-36-pecas.webp",
+        "link": "https://meli.la/32FWqGo",
         "max": 2,
-        "link": "https://meli.la/2ycbD6g",
+        "nome": "Jogo Talheres Faqueiro Família Luxo Aço Inox 36 Peças Tramontina",
+        "preco": "R$138,22"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_773223-MLB92036884842_092025-F-kit-2-colheres-de-pau-38cm-concha-madeira-natural.webp",
+        "link": "https://meli.la/2GAuZzY",
+        "max": 1,
+        "nome": "Colher de pau",
+        "preco": "R$22,77"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_987011-MLB106835612458_022026-F-12-unid-espatula-de-passar-manteiga-nutella-pate-faca-inox.webp",
+        "link": "https://meli.la/18RuWeF",
+        "max": 1,
+        "nome": "Espátula de manteiga",
+        "preco": "R$24,25"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_655820-MLB111765165025_052026-F-afiador-amolador-de-facas-3-em-1-amola-cozinha-profissional.webp",
+        "link": "https://meli.la/2SBydYB",
+        "max": 1,
+        "nome": "Amolador E Afiador De Facas Cor Preto",
+        "preco": "R$18,52"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_755493-MLB113063958344_072026-F-descascador-de-legumes-frutas-batata-lamina-em-inox-cortador.webp",
+        "link": "https://meli.la/2Ms4RgQ",
+        "max": 1,
+        "nome": "Descascador de legumes",
+        "preco": "R$19,01"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_679060-MLA95683711372_102025-F.webp",
+        "link": "https://meli.la/2GkywuQ",
+        "max": 1,
+        "nome": "Utensílios de cozinha",
+        "preco": "R$56,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_689011-MLA99362420436_112025-F.webp",
+        "link": "https://meli.la/14scdoz",
+        "max": 1,
+        "nome": "Socador de feijão",
+        "preco": "R$21,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_683888-MLB100965026879_122025-F-abridor-de-garrafa-saca-rolhas-vinho-inox-profissional.webp",
+        "link": "https://meli.la/1TJiCDc",
+        "max": 1,
+        "nome": "Abridor de garrafa",
+        "preco": "R$19,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_911808-MLA100089628697_122025-F.webp",
+        "link": "https://meli.la/24EBTqp",
+        "max": 1,
+        "nome": "Abridor de lata",
+        "preco": "R$25,69"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_632105-MLA111183508333_052026-F.webp",
+        "link": "https://meli.la/1ExKTGy",
+        "max": 1,
+        "nome": "Tesoura",
+        "preco": "R$19,36"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_920128-MLB111126553548_052026-F-kit-amassador-batata--espremedor-alho-inox-forte.webp",
+        "link": "https://meli.la/2nYB7W6",
+        "max": 1,
+        "nome": "Amassador de batata",
+        "preco": "R$28,49"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_619318-MLB84193243484_052025-F-porta-talheres-organizador-de-gaveta-de-cozinha-resistente.webp",
+        "link": "https://meli.la/2j6tx36",
+        "max": 1,
+        "nome": "Organizador de talheres cor preta",
+        "preco": "R$19,00"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_866196-MLA112859890956_072026-F.webp",
+        "link": "https://meli.la/1gW1gGJ",
+        "max": 1,
+        "nome": "Kit medidor",
+        "preco": "R$24,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_704754-MLA106182305319_012026-F.webp",
+        "link": "https://meli.la/2qsL516",
+        "max": 1,
+        "nome": "Kit de bowl",
+        "preco": "R$64,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_679472-MLU73127149834_122023-F.webp",
+        "link": "https://meli.la/1J7eWNq",
+        "max": 1,
+        "nome": "Conjunto 16 Potes",
+        "preco": "R$69,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_793932-MLB95401495440_102025-F-jogo-6-potes-plastico-vasilha-bacia-bowl-p-cozinha-grande.webp",
+        "link": "https://meli.la/2jhAUJM",
+        "max": 1,
+        "nome": "Jogo de bacias cor preta",
+        "preco": "R$32,12"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_656117-MLB113251844973_062026-F-tampa-protetora-para-microondas-com-alca-e-valvula.webp",
+        "link": "https://meli.la/1oavzca",
+        "max": 1,
+        "nome": "Tampa de micro-ondas",
+        "preco": "R$24,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_610644-MLA111793994460_062026-F.webp",
+        "link": "https://meli.la/2LSgucX",
+        "max": 1,
+        "nome": "Ralador",
+        "preco": "R$36,00"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_919107-MLA107537084322_032026-F.webp",
+        "link": "https://meli.la/1ASre1W",
+        "max": 1,
+        "nome": "Triturador de alimento",
+        "preco": "R$22,21"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_637341-MLB85722803429_062025-F-tabua-de-corte-saudavel-pp-aco-inox-para-cortar-dupla-face.webp",
+        "link": "https://meli.la/2mK7tt5",
+        "max": 1,
+        "nome": "Tábua de corte",
+        "preco": "R$38,00"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_900073-MLA107190732393_022026-F.webp",
+        "link": "https://meli.la/1iihkLq",
+        "max": 1,
+        "nome": "Tábua de corte",
+        "preco": "R$19,00"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_870108-MLB80076408258_102024-F-kit-2-travessa-retangular-refrataria-1300ml-porcelana-branco.webp",
+        "link": "https://meli.la/1fPTHf2",
+        "max": 1,
+        "nome": "Travessa",
+        "preco": "R$66,99"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_910729-MLA99596218620_122025-F.webp",
+        "link": "https://meli.la/2q9pzD9",
+        "max": 1,
+        "nome": "Kit funil de plástico",
+        "preco": "R$19,00"
+      },
+      {
+        "escolhido": 1,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_740918-MLA109137799062_042026-F.webp",
+        "link": "https://meli.la/1mnsLGr",
+        "max": 1,
+        "nome": "Garrafa térmica",
+        "preco": "R$59,41"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_814390-MLA113986086582_072026-F.webp",
+        "link": "https://meli.la/2pcDkeE",
+        "max": 1,
+        "nome": "Coador de café inox",
+        "preco": "R$24,77"
+      },
+      {
+        "escolhido": 1,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_648551-MLA105565830005_012026-F-bule-cafe-cha-23-litros-aluminio-grosso-cabo-baquelite.webp",
+        "link": "https://meli.la/2zCbsmd",
+        "max": 1,
+        "nome": "Bule de café",
+        "preco": "R$71,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_771183-MLA95712551934_102025-F.webp",
+        "link": "https://meli.la/2L2mtNe",
+        "max": 1,
+        "nome": "Jogo de jantar Oxford",
+        "preco": "R$205,59"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_839442-MLB70483699203_072023-F-pano-de-prato-atoalhado-felpudo-macio-algodao-gourmet-5-peca.webp",
+        "link": "https://meli.la/28tBeno",
+        "max": 1,
+        "nome": "Pano De Prato Atoalhado Felpudo",
+        "preco": "R$52,25"
+      },
+      {
+        "escolhido": 1,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_698442-MLA99998734381_112025-F.webp",
+        "link": "https://meli.la/2jQNMzc",
+        "max": 1,
+        "nome": "Liquidificador",
+        "preco": "R$105,73"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_987023-MLA88719812220_072025-F.webp",
+        "link": "https://meli.la/2zY3kxT",
+        "max": 1,
+        "nome": "Batedeira Planetária",
+        "preco": "R$275,53"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_956934-MLA99958223663_112025-F.webp",
+        "link": "https://meli.la/1vjuqx1",
+        "max": 1,
+        "nome": "Chaleira elétrica",
+        "preco": "R$135,00"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_728964-MLA99450346094_112025-F.webp",
+        "link": "https://meli.la/2VuMouu",
+        "max": 1,
+        "nome": "Espremedor de frutas",
+        "preco": "R$158,38"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_951287-MLA99895022791_112025-F.webp",
+        "link": "https://meli.la/2bzRFVN",
+        "max": 1,
+        "nome": "Panela de arroz elétrica",
+        "preco": "R$209,00"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_898071-MLA99545431524_122025-F.webp",
+        "link": "https://meli.la/1ZUm93s",
+        "max": 1,
+        "nome": "Air fryer wap",
+        "preco": "R$469,90"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_905677-MLA99911165953_112025-F.webp",
+        "link": "https://meli.la/22qgtSH",
+        "max": 1,
+        "nome": "Processador de alimentos",
+        "preco": "R$145,20"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_830055-MLA99602919758_122025-F.webp",
+        "link": "https://meli.la/2YeUpaR",
+        "max": 1,
+        "nome": "Grelha dupla",
+        "preco": "R$25,98"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_667572-MLB88165056918_072025-F-tabua-corte-carne-churrasco-servir-moderna-grande-com-cabo.webp",
+        "link": "https://meli.la/2jL28ej",
+        "max": 1,
+        "nome": "Tábua Corte Carne Churrasco",
+        "preco": "R$69,98"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_824174-MLB92172590486_092025-F-grelha-churrasco-parrilla-uruguaia-100-inox-reforcada.webp",
+        "link": "https://meli.la/1SKHXx3",
+        "max": 1,
+        "nome": "Grelha de churrasqueira",
+        "preco": "R$99,99"
+      }
+    ],
+    "quarto": [
+      null,
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_644969-MLB86682830902_062025-F-edredom-casal-dupla-face-jogo-de-lencol-varias-cores.webp",
+        "link": "https://meli.la/2i8PzV9",
+        "max": 1,
+        "nome": "Edredom Dupla Face Queen Cor Azul Marinho",
+        "preco": "R$203,24"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_746601-MLB52559432851_112022-F-jogo-lencol-casal-3-pecas-200-fios-fronhas-com-ponto-palito.webp",
+        "link": "https://meli.la/1U4jzWK",
+        "max": 2,
+        "nome": "Jogo Lençol Queen 3 Peças Cor Cinza",
+        "preco": "R$62,97"
+      },
+      {
+        "escolhido": 0,
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_608268-MLB91341669894_092025-F-kit-cobre-leito-casal-3-pecas-colcha-400-fios-dupla-face.webp",
+        "link": "https://meli.la/12ejC27",
+        "max": 1,
+        "nome": "Kit Cobre Leito Queen 3 Peças Cor Cinza",
+        "preco": "R$165,49"
+      }
+    ],
+    "Área de serviço": [
+      null,
+      {
+        "escolhido": 0,
         "imagem": "https://http2.mlstatic.com/D_Q_NP_626035-MLB97244668791_112025-F-balde-85-litros-sanremo-alcas-anatomicas-trasparente.webp",
+        "link": "https://meli.la/2ycbD6g",
+        "max": 2,
+        "nome": "Balde",
         "preco": "R$35,62"
       },
-      "2": {
-        "nome": "Kit flanela",
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/34mDoEZ",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_641854-MLA106838235046_022026-F.webp",
+        "link": "https://meli.la/34mDoEZ",
+        "max": 1,
+        "nome": "Kit flanela",
         "preco": "R$12,11"
       },
-      "3": {
-        "nome": "Pano para limpeza escama de peixe",
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2XDWEAm",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_986599-MLB112056792235_052026-F-kit-5-toalha-magica-pano-escama-peixe-nao-solta-fiapo.webp",
+        "link": "https://meli.la/2XDWEAm",
+        "max": 1,
+        "nome": "Pano para limpeza escama de peixe",
         "preco": "R$29,00"
       },
-      "4": {
-        "nome": "Aspirador de pó vertical wap",
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/2nQSezC",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_788820-MLU74192085653_012024-F.webp",
+        "link": "https://meli.la/2nQSezC",
+        "max": 1,
+        "nome": "Aspirador de pó vertical wap",
         "preco": "R$184,90"
       },
-      "5": {
-        "nome": "Varal dobrável",
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1SwYWCb",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_764606-MLA100104494477_122025-F.webp",
+        "link": "https://meli.la/1SwYWCb",
+        "max": 1,
+        "nome": "Varal dobrável",
         "preco": "R$45,17"
       },
-      "6": {
-        "nome": "Varal de chão",
+      {
         "escolhido": 0,
-        "max": 1,
-        "link": "https://meli.la/1nYWd5B",
         "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_957055-MLB91923757953_092025-F-varal-roupa-cho-com-abas-grande-20kg-retratil-dobravel.webp",
+        "link": "https://meli.la/1nYWd5B",
+        "max": 1,
+        "nome": "Varal de chão",
         "preco": "R$121,88"
       }
-    }
+    ]
   }
 }
